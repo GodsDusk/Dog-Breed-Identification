@@ -16,9 +16,6 @@ Thanks for the author [@ypwhs](https://github.com/ypwhs).
 - Download [tensorflow model zoo](https://github.com/tensorflow/models/tree/master/research/slim) fold into root fold.
 
 
-
-
-
 ```
 Dog-Breed-Identification
 |   README.md
@@ -53,7 +50,7 @@ Dog-Breed-Identification
 
 ```
 
-##Run
+## Run
 
     python get_features.py
     python pred.py
