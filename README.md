@@ -21,38 +21,38 @@ Thanks for the author [@ypwhs](https://github.com/ypwhs).
 
 ```
 Dog-Breed-Identification
-?   README.md
-?   get_features.py
-?   pred.py
-?   sample_submission.csv
-?
-???????slim
-? ?     setup.py
-? ?     slim_walkthrough.ipynb
-? ?     ...
-? ?
-? ?????nets
-? ?     resnet_v1.py
-? ?     inception.py
-? ?     ...
-? ?
-? ?????preprocessing
-? ?     vgg_preprocessing.py
-? ?     inception_preprocessing.py
-? ?     ...
-? ?
-? ?...
-?
-???????Images
-? ????? n02085620-Chihuahua
-? ????? n02085782-Japanese_spaniel
-?       ...
-?
-???????test
+|   README.md
+|   get_features.py
+|   pred.py
+|   sample_submission.csv
+|
+|_______slim
+| |     setup.py
+| |     slim_walkthrough.ipynb
+| |     ...
+| |
+| |____nets
+| |     resnet_v1.py
+| |     inception.py
+| |     ...
+| |
+| |____preprocessing
+| |     vgg_preprocessing.py
+| |     inception_preprocessing.py
+| |     ...
+| |
+| |...
+|
+|______Images
+| |____ n02085620-Chihuahua
+| |____ n02085782-Japanese_spaniel
+|       ...
+|
+|______test
 
 
 ```
 
 ##Run
-    $ python get_features.py
-    $ python pred.py
+    python get_features.py
+    python pred.py
