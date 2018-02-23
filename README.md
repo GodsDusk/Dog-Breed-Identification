@@ -54,5 +54,6 @@ Dog-Breed-Identification
 ```
 
 ##Run
+
     python get_features.py
     python pred.py
